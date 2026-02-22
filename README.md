@@ -1,14 +1,9 @@
-<table>
-<tr>
-<td width="65%">
-
 # 👩‍💻 Toka Sayed
 
 Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer  
 
 📍 Egypt  
 🎓 Computer Science Student – Assiut University  
-
 🔝 Top 2% on TryHackMe  
 
 ---
@@ -29,11 +24,11 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ## 🚀 About Me
 
-- 📱 Flutter Mobile Developer
-- 🔐 Penetration Tester – GDG on Campus (CIC 🍁)
-- 💻 C++ & Competitive Programming (Newbie)
-- 🧠 Strong in Problem Solving & OOP
-- 🌐 Frontend Web Developer (Meta + Vodafone)
+- 📱 Flutter Mobile Developer  
+- 🔐 Penetration Tester – GDG on Campus (CIC 🍁)  
+- 💻 C++ & Competitive Programming (Newbie)  
+- 🧠 Strong in Problem Solving & OOP  
+- 🌐 Frontend Web Developer (Meta + Vodafone)  
 
 ---
 
@@ -61,12 +56,12 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
 
-Skills:
-- UI / UX
-- Authentication Systems
-- JWT
-- Authorization
-- Web Development
+**Skills:**
+- UI / UX  
+- Authentication Systems  
+- JWT  
+- Authorization  
+- Web Development  
 
 ---
 
@@ -89,21 +84,21 @@ Skills:
 - Information Disclosure  
 
 ### 🌐 Networking
-- LAN / WAN
-- DNS / DNS Spoofing
-- HTTP / HTTPS
-- Network Protocols
-- Recon & Information Gathering
+- LAN / WAN  
+- DNS / DNS Spoofing  
+- HTTP / HTTPS  
+- Network Protocols  
+- Recon & Information Gathering  
 
 ### 🔑 Security Concepts
-- Encryption
-- Password Cracking
-- Cryptographic Forensics
-- Incident Response
-- Digital Authentication
-- Access Control
-- Network Security
-- Phishing
+- Encryption  
+- Password Cracking  
+- Cryptographic Forensics  
+- Incident Response  
+- Digital Authentication  
+- Access Control  
+- Network Security  
+- Phishing  
 
 ---
 
@@ -132,8 +127,8 @@ Skills:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=z30r0x&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z30r0x&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -150,20 +145,3 @@ Skills:
 ---
 
 > “Building secure, scalable, and impactful solutions.”
-
-</td>
-
-<td width="35%" align="center">
-
-<img src="https://avatars.githubusercontent.com/YOUR_USERNAME?s=400" width="250"/>
-
-<br><br>
-
-### 🔥 Focus Areas
-Flutter  
-Cybersecurity  
-Competitive Programming  
-
-</td>
-</tr>
-</table>
