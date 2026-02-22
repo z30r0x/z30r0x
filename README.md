@@ -10,34 +10,25 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
-
 <p align="left">
-
   <a href="https://www.linkedin.com/in/TokaSayed/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
   </a>
-
   <a href="https://github.com/z30r0x">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
   </a>
-
   <a href="https://tryhackme.com/p/z30r0x">
-    <img src="https://simpleicons.org/icons/tryhackme.svg" height="30"/>
+    <img src="https://cdn.simpleicons.org/tryhackme/FF0000" height="32"/>
   </a>
-
   <a href="https://codeforces.com/profile/toka_sayed">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="30"/>
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="32"/>
   </a>
-
   <a href="https://cybertalents.com/account/profile/me">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackthebox.svg" height="30"/>
+    <img src="https://cdn.simpleicons.org/shield/0A66C2" height="32"/>
   </a>
-
   <a href="https://leetcode.com/u/z30r0x/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>
   </a>
-
 </p>
 
 ---
