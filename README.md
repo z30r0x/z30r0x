@@ -10,13 +10,13 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ## 🌐 Connect With Me
 
-<p>
+<p align="left">
   <a href="https://www.linkedin.com/in/TokaSayed/">
-    <img src="https://img.shields.io/badge/LinkedIn-Toka%20Sayed-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
-
-  <a href="mailto:tokasayedm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail">
+  
+  <a href="https://github.com/z30r0x">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
   </a>
 </p>
 
@@ -57,7 +57,7 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 </p>
 
 **Skills:**
-- UI / UX   
+- UI / UX  
 - Web Development  
 
 ---
@@ -99,6 +99,30 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ---
 
+## 🚀 Projects
+
+### 📱 Authentication App (Flutter)
+- Built with Dart & Flutter  
+- User Login & Registration  
+- Form Validation  
+- Clean UI  
+
+### 🏫 School Management System
+- HTML, CSS, Bootstrap  
+- GitHub Version Control  
+- Responsive Design  
+
+### 🌐 Tribute Page
+- HTML & CSS  
+- Structured Layout  
+- Semantic Elements  
+
+### 📄 Course Application Form
+- Advanced HTML & CSS  
+- Responsive UI  
+
+---
+
 ## 🤖 AI & Data Skills
 
 - Pandas  
@@ -129,5 +153,3 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 - Research Skills  
 
 ---
-
-> “Building secure, scalable, and impactful solutions.”
