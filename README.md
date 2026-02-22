@@ -14,18 +14,19 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
   <a href="https://www.linkedin.com/in/TokaSayed/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/z30r0x">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/z30r0x">
     <img src="https://cdn.simpleicons.org/tryhackme/FF0000" height="32"/>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/toka_sayed">
     <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="32"/>
   </a>
-  <a href="https://cybertalents.com/account/profile/me">
-    <img src="https://cdn.simpleicons.org/shield/0A66C2" height="32"/>
-  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/z30r0x/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>
   </a>
