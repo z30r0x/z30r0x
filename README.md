@@ -57,10 +57,7 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 </p>
 
 **Skills:**
-- UI / UX  
-- Authentication Systems  
-- JWT  
-- Authorization  
+- UI / UX   
 - Web Development  
 
 ---
@@ -119,17 +116,6 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 - 🔐 IT & Information Security 101  
 - 🌐 Meta – Introduction to Frontend Development  
 - 🏢 Vodafone – Frontend Web Developer Training  
-- 🎯 McKinsey Forward Program  
-- 🧠 AI & ML Learning Foundations  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=z30r0x&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=z30r0x&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
