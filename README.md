@@ -1,13 +1,22 @@
-# 👩‍💻 Hi, I'm Toka Sayed
+<table>
+<tr>
+<td width="65%">
 
-Junior Flutter Mobile Developer | Computer Science Student | Cybersecurity Enthusiast   
+# 👩‍💻 Toka Sayed
+
+Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer  
+
+📍 Egypt  
+🎓 Computer Science Student – Assiut University  
+
+🔝 Top 2% on TryHackMe  
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/TokaSayed/" target="_blank">
+<p>
+  <a href="https://www.linkedin.com/in/TokaSayed/">
     <img src="https://img.shields.io/badge/LinkedIn-Toka%20Sayed-blue?style=for-the-badge&logo=linkedin">
   </a>
 
@@ -20,60 +29,141 @@ Junior Flutter Mobile Developer | Computer Science Student | Cybersecurity Enthu
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 📱 Passionate about Flutter Mobile Development
-- 🔐 Interested in Cybersecurity & Penetration Testing
-- 💡 Strong logical thinking & teamwork skills
+- 📱 Flutter Mobile Developer
+- 🔐 Penetration Tester – GDG on Campus (CIC 🍁)
+- 💻 C++ & Competitive Programming (Newbie)
+- 🧠 Strong in Problem Solving & OOP
+- 🌐 Frontend Web Developer (Meta + Vodafone)
 
 ---
 
-## 🛠️ Tech Stack
-
-### 👩‍💻 Programming Languages
+## 🛠️ Programming Languages
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 </p>
 
 ---
 
-### 📱 Frameworks & Tools
+## 📱 Mobile & Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
 </p>
+
+Skills:
+- UI / UX
+- Authentication Systems
+- JWT
+- Authorization
+- Web Development
 
 ---
 
-## 🔐 Cybersecurity Skills
+## 🔐 Cybersecurity Stack
 
 <p>
-  <img src="https://img.shields.io/badge/Networking-Fundamentals-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Linux-Commands-yellow?style=for-the-badge&logo=linux">
-  <img src="https://img.shields.io/badge/HTTP%2FHTTPS-Protocols-green?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Penetration%20Testing-Beginner-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp%20Suite-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Metasploit-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-black?style=for-the-badge&logo=linux"/>
 </p>
+
+### 🛡️ Web Vulnerabilities
+- XSS  
+- SQL Injection  
+- CSRF  
+- SSRF  
+- Path Traversal  
+- Information Disclosure  
+
+### 🌐 Networking
+- LAN / WAN
+- DNS / DNS Spoofing
+- HTTP / HTTPS
+- Network Protocols
+- Recon & Information Gathering
+
+### 🔑 Security Concepts
+- Encryption
+- Password Cracking
+- Cryptographic Forensics
+- Incident Response
+- Digital Authentication
+- Access Control
+- Network Security
+- Phishing
+
+---
+
+## 🤖 AI & Data Skills
+
+- Pandas  
+- NumPy  
+- Data Analysis  
+- Data Visualization  
+- Data Science Foundations  
+
+---
+
+## 🏆 Certificates
+
+- 🥇 TryHackMe – Pre Security Certificate  
+- 🔝 Top 2% TryHackMe  
+- 🔐 IT & Information Security 101  
+- 🌐 Meta – Introduction to Frontend Development  
+- 🏢 Vodafone – Frontend Web Developer Training  
+- 🎯 McKinsey Forward Program  
+- 🧠 AI & ML Learning Foundations  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## ✨ Quote I Believe In
+## 💬 Soft Skills
 
-> "Build secure, scalable, and impactful solutions."
+- Teamwork  
+- Communication  
+- Flexibility  
+- Active Learning  
+- Time Management  
+- Research Skills  
+
+---
+
+> “Building secure, scalable, and impactful solutions.”
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://avatars.githubusercontent.com/YOUR_USERNAME?s=400" width="250"/>
+
+<br><br>
+
+### 🔥 Focus Areas
+Flutter  
+Cybersecurity  
+Competitive Programming  
+
+</td>
+</tr>
+</table>
