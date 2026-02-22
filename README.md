@@ -10,7 +10,10 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ## 🌐 Connect With Me
 
+## 🌐 Connect With Me
+
 <p align="left">
+
   <a href="https://www.linkedin.com/in/TokaSayed/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
@@ -20,20 +23,21 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
   </a>
 
   <a href="https://tryhackme.com/p/z30r0x">
-    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+    <img src="https://simpleicons.org/icons/tryhackme.svg" height="30"/>
   </a>
 
   <a href="https://codeforces.com/profile/toka_sayed">
-    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="30"/>
   </a>
 
   <a href="https://cybertalents.com/account/profile/me">
-    <img src="https://img.shields.io/badge/CyberTalents-black?style=for-the-badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackthebox.svg" height="30"/>
   </a>
 
   <a href="https://leetcode.com/u/z30r0x/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30"/>
   </a>
+
 </p>
 
 ---
