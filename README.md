@@ -109,30 +109,6 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ---
 
-## 🚀 Projects
-
-### 📱 Authentication App (Flutter)
-- Built with Dart & Flutter  
-- User Login & Registration  
-- Form Validation  
-- Clean UI  
-
-### 🏫 School Management System
-- HTML, CSS, Bootstrap  
-- GitHub Version Control  
-- Responsive Design  
-
-### 🌐 Tribute Page
-- HTML & CSS  
-- Structured Layout  
-- Semantic Elements  
-
-### 📄 Course Application Form
-- Advanced HTML & CSS  
-- Responsive UI  
-
----
-
 ## 🤖 AI & Data Skills
 
 - Pandas  
