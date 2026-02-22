@@ -8,7 +8,7 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact Info
 
 <p align="left">
   <a href="https://www.linkedin.com/in/TokaSayed/">
