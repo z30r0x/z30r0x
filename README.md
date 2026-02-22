@@ -14,9 +14,25 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
   <a href="https://www.linkedin.com/in/TokaSayed/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/>
   </a>
-  
+
   <a href="https://github.com/z30r0x">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+  </a>
+
+  <a href="https://tryhackme.com/p/z30r0x">
+    <img src="https://img.shields.io/badge/TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+  </a>
+
+  <a href="https://codeforces.com/profile/toka_sayed">
+    <img src="https://img.shields.io/badge/Codeforces-blue?style=for-the-badge"/>
+  </a>
+
+  <a href="https://cybertalents.com/account/profile/me">
+    <img src="https://img.shields.io/badge/CyberTalents-black?style=for-the-badge"/>
+  </a>
+
+  <a href="https://leetcode.com/u/z30r0x/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
@@ -140,16 +156,5 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 - 🔐 IT & Information Security 101  
 - 🌐 Meta – Introduction to Frontend Development  
 - 🏢 Vodafone – Frontend Web Developer Training  
-
----
-
-## 💬 Soft Skills
-
-- Teamwork  
-- Communication  
-- Flexibility  
-- Active Learning  
-- Time Management  
-- Research Skills  
 
 ---
