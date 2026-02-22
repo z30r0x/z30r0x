@@ -16,7 +16,13 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/z30r0x">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" 
+        srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+      <source media="(prefers-color-scheme: light)" 
+        srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
+    </picture>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/z30r0x">
