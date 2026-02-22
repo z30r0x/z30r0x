@@ -1,4 +1,6 @@
-# 👩‍💻 Toka Sayed
+# 👩‍💻 HI There! It's Toka Sayed
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+Github)](https://git.io/typing-svg)
 
 Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer  
 
