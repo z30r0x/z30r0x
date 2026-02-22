@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-<!--
-**z30r0x/z30r0x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Junior+Flutter+Mobile+App+Developer)](https://git.io/typing-svg)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
