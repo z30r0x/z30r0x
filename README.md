@@ -6,7 +6,7 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 
 📍 Egypt  
 🎓 Computer Science Student – Assiut University  
-🔝 Top 2% on TryHackMe  
+🔝 Top 1% on TryHackMe  
 
 ---
 
