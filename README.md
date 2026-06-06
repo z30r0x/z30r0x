@@ -122,7 +122,7 @@ Junior Flutter Developer | Cybersecurity Enthusiast | Competitive Programmer
 ## 🏆 Certificates
 
 - 🥇 TryHackMe – Pre Security Certificate  
-- 🔝 Top 2% TryHackMe  
+- 🔝 Top 1% TryHackMe  
 - 🔐 IT & Information Security 101  
 - 🌐 Meta – Introduction to Frontend Development  
 - 🏢 Vodafone – Frontend Web Developer Training  
