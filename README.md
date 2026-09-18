@@ -13,11 +13,6 @@ Web Penetration Tester | Junior Flutter Developer | Competitive Programmer
 
 ## 🌐 Contact Info
 
-<p align="left">
-  <a href="mailto:toka.sayed.ahmed@outlook.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="32"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/TokaSayed/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
   </a>
@@ -32,10 +27,6 @@ Web Penetration Tester | Junior Flutter Developer | Competitive Programmer
   &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/z30r0x/">
     <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://tokasayed.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" height="32"/>
   </a>
 </p>
 
@@ -163,7 +154,3 @@ Pandas · NumPy · Data Analysis · Data Visualization · Data Science Foundatio
 ## 📄 Resume
 
 [Portfolio](https://tokasayed.vercel.app/)
-
----
-
-© 2026 Toka Sayed — Web Penetration Tester
