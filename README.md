@@ -151,6 +151,6 @@ Pandas · NumPy · Data Analysis · Data Visualization · Data Science Foundatio
 
 ---
 
-## 📄 Resume
+## 🗣️ Portfolio
 
 [Portfolio](https://tokasayed.vercel.app/)
