@@ -110,7 +110,6 @@ Assiut University · 2024–2028 (Expected) · GPA 3.4/4.0
 - 🧭 McKinsey Forward Program — McKinsey.org (Jul 2025)
 - 🕵️ Digital Forensics Fundamentals — Netriders (2025)
 - 🗣️ EF SET English Certificate — B2 Upper Intermediate (Jan 2025)
-- 🇹🇷 Turkish Course A1 — Erasmus+ / European Solidarity Corps (Aug 2025)
 - 🌐 Introduction to Frontend Development — Meta | Coursera (2023)
 
 ---
