@@ -22,10 +22,6 @@ Web Penetration Tester | Junior Flutter Developer | Competitive Programmer
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="32"/>
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/z30r0x">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://tryhackme.com/p/z30r0x">
     <img src="https://cdn.simpleicons.org/tryhackme/FF0000" height="32"/>
   </a>
